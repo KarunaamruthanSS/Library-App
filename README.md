@@ -1,4 +1,4 @@
-# flutter_application_1
+# Library Management System
 
 A new Flutter project.
 
